@@ -253,6 +253,7 @@ ${prefix}invite ⥨ لدعوة البوت الى سيرفرك
 
 ${prefix}support ⥨ لدخول سيرفر الدعم
 
+رابط البوت:https://discordapp.com/oauth2/authorize?client_id=558298401004060673&permissions=8&scope=bot
 
 	  `)
    message.channel.sendEmbed(embed)
